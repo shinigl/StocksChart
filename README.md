@@ -5,7 +5,7 @@ The Stock Tracker Dashboard is a fully functional web application built using HT
 
 ## Live Demo
 You can view the live demo of the project here:
-[**Stock Tracker Dashboard**]()
+[**Stock Tracker Dashboard**](https://github.com/shinigl/StocksChart)
 
 ## Key Features
 - **Real-Time Stock Data**: Users can search for any stock by symbol (e.g., AAPL, MSFT), retrieve detailed information like price, volume, and changes in price, and display a graph showing the stock's historical performance.
